@@ -1,0 +1,3 @@
+; CHECK: {
+; CHECK-NEXT: ret i1 true
+; CHECK-NEXT: }
